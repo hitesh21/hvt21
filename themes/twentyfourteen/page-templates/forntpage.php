@@ -20,7 +20,7 @@
 <link href="css/animate.css" type="text/css" rel="stylesheet" />
 <link href="css/font-awesome.css" type="text/css" rel="stylesheet" />
 <link href="css/owl.carousel.css" type="text/css" rel="stylesheet" />
-<link href="css/style.css" type="text/css" rel="stylesheet" />
+<link href="<?php bloginfo('template_url'); ?>/style.css" type="text/css" rel="stylesheet" />
 </head>
 
 <body>
